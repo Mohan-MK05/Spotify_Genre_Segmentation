@@ -1,0 +1,37 @@
+{
+  "input_rows": 32833,
+  "input_columns": 23,
+  "clean_rows": 32833,
+  "duplicates_removed": 0,
+  "missing_values_after_cleaning": 0,
+  "genres": 6,
+  "subgenres": 24,
+  "artists": 10693,
+  "best_k": 6,
+  "optimal_k_by_silhouette": 2,
+  "silhouette_score_final_k": 0.12515930036569584,
+  "genre_classifier_accuracy": 0.5597685396680372,
+  "calinski_harabasz": 544.6222819530083,
+  "davies_bouldin": 1.8774849018682522,
+  "cluster_names": {
+    "0": "Segment 0 \u2013 High-Energy Dance / Latin-dominant",
+    "1": "Segment 1 \u2013 High-Energy Dance / Edm-dominant",
+    "2": "Segment 2 \u2013 Balanced / Edm-dominant",
+    "3": "Segment 3 \u2013 Danceable / Rap-dominant",
+    "4": "Segment 4 \u2013 Balanced / R&B-dominant",
+    "5": "Segment 5 \u2013 Balanced / Edm-dominant"
+  }
+}
+
+Top sample recommendations:
+                                            track_name track_artist playlist_genre         playlist_subgenre  track_popularity                                   segment_name
+I Don't Care (with Justin Bieber) - Loud Luxury Remix   Ed Sheeran            pop                 dance pop                66 Segment 0 – High-Energy Dance / Latin-dominant
+                                              Todavia  La Factoria          latin                 reggaeton                69 Segment 0 – High-Energy Dance / Latin-dominant
+                    TTM (feat. Wiz Khalifa & NGHTMRE)     PnB Rock            r&b        urban contemporary                63 Segment 0 – High-Energy Dance / Latin-dominant
+                                        Glad You Came   The Wanted            pop             post-teen pop                71 Segment 0 – High-Energy Dance / Latin-dominant
+                          Not Ok - Frank Walker Remix         Kygo            edm             electro house                66 Segment 0 – High-Energy Dance / Latin-dominant
+                          Not Ok - Frank Walker Remix         Kygo            pop                 dance pop                66 Segment 0 – High-Energy Dance / Latin-dominant
+                          Not Ok - Frank Walker Remix         Kygo            edm                  big room                66 Segment 0 – High-Energy Dance / Latin-dominant
+                                              Love Me Felix Cartal            pop           indie poptimism                60 Segment 0 – High-Energy Dance / Latin-dominant
+                                              Love Me Felix Cartal            pop                electropop                60 Segment 0 – High-Energy Dance / Latin-dominant
+                                              Love Me Felix Cartal            edm progressive electro house                60 Segment 0 – High-Energy Dance / Latin-dominant

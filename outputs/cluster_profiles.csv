@@ -1,0 +1,7 @@
+cluster,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_min,track_popularity,track_count,playlist_genre_dominant,playlist_subgenre_dominant
+0,0.739,0.725,-6.122,0.075,0.143,0.013,0.149,0.672,113.772,3.652,48.709,10899,latin,latin hip hop
+1,0.665,0.784,-6.963,0.071,0.07,0.741,0.172,0.39,125.157,4.223,28.788,2488,edm,progressive electro house
+2,0.611,0.78,-5.994,0.113,0.114,0.053,0.611,0.513,121.131,3.879,37.548,2153,edm,progressive electro house
+3,0.727,0.661,-6.866,0.313,0.184,0.011,0.173,0.544,122.89,3.61,43.395,4309,rap,gangster rap
+4,0.606,0.426,-10.525,0.072,0.515,0.093,0.147,0.395,112.097,3.785,44.134,4732,r&b,neo soul
+5,0.543,0.793,-5.366,0.072,0.066,0.024,0.174,0.382,132.905,3.809,38.23,8252,edm,hard rock
